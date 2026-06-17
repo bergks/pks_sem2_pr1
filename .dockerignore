@@ -1,0 +1,11 @@
+build/
+.vscode/
+*.pro.user
+*.o
+*.obj
+*.moc
+moc_*
+qrc_*
+ui_*
+Makefile
+.DS_Store
